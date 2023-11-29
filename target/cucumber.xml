@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="38.141">
+    <testcase classname="NewCustomer" name="Adding New Customer" time="26.778">
+        <system-out><![CDATA[Given : navigate to GuruBank website........................................passed
+Then :  enter username and Password.........................................passed
+Then : click on Login Button................................................passed
+Then : click on NewCustomer.................................................passed
+Then : Enter Customer Details...............................................passed
+Then : click on Submit Button...............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="GuruBank Login Page" name="Navigate to GuruBank login page" time="11.099">
+        <system-out><![CDATA[Given : navigate to GuruBank website........................................passed
+Then :  enter username and Password.........................................passed
+Then : click on Login Button................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

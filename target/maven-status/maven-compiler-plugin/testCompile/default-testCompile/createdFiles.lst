@@ -1,1 +1,6 @@
-org\example\AppTest.class
+StepDefinitions\SD_02NewCutomer.class
+Runner\TestRunner.class
+DemoWebsite\AT_01Login.class
+DemoWebsite\AT_02NewCustomer.class
+DemoWebsite\AT_03VerifyRegisteredSucessfully.class
+StepDefinitions\SD_01Login.class
