@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8e6a099-d358-47a2-9cf9-b7ca70ae0146" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/FeatureFile/FF_03VerifyFRegistrationPage.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/SD_03VerifyRegistrationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DemoWebsite/AT_02NewCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DemoWebsite/AT_02NewCustomer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DemoWebsite/AT_03VerifyRegisteredSucessfully.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DemoWebsite/AT_03VerifyRegisteredSucessfully.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Bank99-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Bank99-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-failures.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-failures.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-features.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-features.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-steps.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-steps.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-feature_file-src-test-java-FeatureFile-FF_02NewCustomer-feature_cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-feature_file-src-test-java-FeatureFile-FF_02NewCustomer-feature_cucumber.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-feature_file-src-test-java-FeatureFile-FF_Login-feature_cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-feature_file-src-test-java-FeatureFile-FF_Login-feature_cucumber.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-tag_SanityTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-tag_SanityTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-report" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Runner.TestRunner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Runner.TestRunner.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Runner.TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Runner.TestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/DemoWebsite/AT_02NewCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DemoWebsite/AT_02NewCustomer.class" afterDir="false" />
-    </list>
+    <list default="true" id="f8e6a099-d358-47a2-9cf9-b7ca70ae0146" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
