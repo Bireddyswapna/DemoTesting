@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8e6a099-d358-47a2-9cf9-b7ca70ae0146" name="Changes" comment="" />
+    <list default="true" id="f8e6a099-d358-47a2-9cf9-b7ca70ae0146" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/FeatureFile/FF_03VerifyFRegistrationPage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/SD_03VerifyRegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DemoWebsite/AT_02NewCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DemoWebsite/AT_02NewCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DemoWebsite/AT_03VerifyRegisteredSucessfully.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DemoWebsite/AT_03VerifyRegisteredSucessfully.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Bank99-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Bank99-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-failures.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-failures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-features.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-features.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-steps.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-steps.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/overview-tags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-feature_file-src-test-java-FeatureFile-FF_02NewCustomer-feature_cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-feature_file-src-test-java-FeatureFile-FF_02NewCustomer-feature_cucumber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-feature_file-src-test-java-FeatureFile-FF_Login-feature_cucumber.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-feature_file-src-test-java-FeatureFile-FF_Login-feature_cucumber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-tag_SanityTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-JVM-reports/cucumber-html-reports/report-tag_SanityTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-report" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Runner.TestRunner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Runner.TestRunner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Runner.TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Runner.TestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DemoWebsite/AT_02NewCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DemoWebsite/AT_02NewCustomer.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,11 +54,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "test02",
+    "git-widget-placeholder": "branch",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Cucumber Java.Feature: FF_02NewCustomer">
+  <component name="RunManager" selected="Cucumber Java.Feature: FF_03VerifyFRegistrationPage">
     <configuration name="Feature: FF_02NewCustomer" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFile/FF_02NewCustomer.feature" />
@@ -47,6 +67,24 @@
       <module name="Bank99" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
       <option name="SUGGESTED_NAME" value="Feature: FF_02NewCustomer" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: FF_03VerifyFRegistrationPage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFile/FF_03VerifyFRegistrationPage.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Bank99" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: FF_03VerifyFRegistrationPage" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -91,21 +129,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT_02NewCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Bank99" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DemoWebsite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DemoWebsite" />
-      <option name="MAIN_CLASS_NAME" value="DemoWebsite.AT_02NewCustomer" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="AT_03VerifyRegisteredSucessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Bank99" />
       <extension name="coverage">
@@ -123,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: FF_03VerifyFRegistrationPage" />
         <item itemvalue="Cucumber Java.Feature: FF_02NewCustomer" />
         <item itemvalue="Cucumber Java.Feature: FF_Login" />
         <item itemvalue="JUnit.AT_03VerifyRegisteredSucessfully" />
         <item itemvalue="JUnit.AT_01Login" />
-        <item itemvalue="JUnit.AT_02NewCustomer" />
       </list>
     </recent_temporary>
   </component>

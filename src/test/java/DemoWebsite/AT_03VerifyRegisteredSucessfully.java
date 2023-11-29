@@ -9,18 +9,21 @@ import java.io.IOException;
 
 
 public class AT_03VerifyRegisteredSucessfully {
-    @Test
-    public void RegistrationPage() throws IOException {
-       // AT_02NewCustomer.AddNewCustomer();
+
+    public static void RegistrationPage() throws IOException {
+        // AT_02NewCustomer.AddNewCustomer();
         OpenBrowser.NavigateHP(ReadPropertiesFile.PropFile("RegistrationPage"));
-        String ActualTitle= OpenBrowser.driver.getTitle();
-        System.out.println("ActualTitle ="+ActualTitle);
+    }
+        public static void TitleAssertion() {
+            String ActualTitle = OpenBrowser.driver.getTitle();
+            System.out.println("ActualTitle =" + ActualTitle);
 //        String ExpectedTitle= "Guru99 Bank Customer Registration Page";
 //        Assert.assertEquals(ExpectedTitle,ActualTitle);
-        //Assertion version-2
-        Assert.assertTrue(ActualTitle.contains("Registration"));
+            //Assertion version-2
+            Assert.assertTrue(ActualTitle.contains("Registration"));
+        }
 
 
 
     }
-}
+
