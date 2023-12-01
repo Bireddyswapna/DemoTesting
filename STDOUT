@@ -1,0 +1,15 @@
+
+@SanityTest
+Scenario: Adding New Customer          [90m# src/test/java/FeatureFile/FF_02NewCustomer.feature:4[0m
+  [32mGiven [0m[32m: navigate to GuruBank website[0m [90m# StepDefinitions.SD_01Login.navigate_to_guru_bank_website()[0m
+  [32mThen [0m[32m:  enter username and Password[0m  [90m# StepDefinitions.SD_01Login.enter_username_and_password()[0m
+  [32mThen [0m[32m: click on Login Button[0m         [90m# StepDefinitions.SD_01Login.click_on_login_button()[0m
+  [32mThen [0m[32m: click on NewCustomer[0m          [90m# StepDefinitions.SD_02NewCutomer.click_on_new_customer()[0m
+  [32mThen [0m[32m: Enter Customer Details[0m        [90m# StepDefinitions.SD_02NewCutomer.enter_customer_details()[0m
+  [32mThen [0m[32m: click on Submit Button[0m        [90m# StepDefinitions.SD_02NewCutomer.click_on_submit_button()[0m
+
+@SanityTest
+Scenario: Navigate to GuruBank login page [90m# src/test/java/FeatureFile/FF_Login.feature:3[0m
+  [32mGiven [0m[32m: navigate to GuruBank website[0m    [90m# StepDefinitions.SD_01Login.navigate_to_guru_bank_website()[0m
+  [32mThen [0m[32m:  enter username and Password[0m     [90m# StepDefinitions.SD_01Login.enter_username_and_password()[0m
+  [32mThen [0m[32m: click on Login Button[0m            [90m# StepDefinitions.SD_01Login.click_on_login_button()[0m

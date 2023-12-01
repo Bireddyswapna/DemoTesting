@@ -1,1 +1,3 @@
-org\example\App.class
+BaseClass\OpenBrowser.class
+Utilities\Xls_Reader.class
+propertiesFile\ReadPropertiesFile.class
