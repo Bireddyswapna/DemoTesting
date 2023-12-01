@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8e6a099-d358-47a2-9cf9-b7ca70ae0146" name="Changes" comment="" />
+    <list default="true" id="f8e6a099-d358-47a2-9cf9-b7ca70ae0146" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Resources/demo.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DemoWebsite/AT_04VerifyLoginPageUsingExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FeatureFile/AT_04VerifyLoginPage.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/SD_04VerifyLoginPageUsingExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/propertiesFile/PropertiesFile.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/propertiesFile/PropertiesFile.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +45,31 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Cucumber Java.Feature: FF_03VerifyFRegistrationPage">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Swapna Reddy Bireddy\IdeaProjects\Bank99\src\main\java\Resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: AT_04VerifyLoginPage">
+    <configuration name="Feature: AT_04VerifyLoginPage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFile/AT_04VerifyLoginPage.feature" />
+      <option name="GLUE" value="StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Bank99" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: AT_04VerifyLoginPage" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Feature: FF_02NewCustomer" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/FeatureFile/FF_02NewCustomer.feature" />
@@ -94,21 +125,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AT_01Login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Bank99" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DemoWebsite.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DemoWebsite" />
-      <option name="MAIN_CLASS_NAME" value="DemoWebsite.AT_01Login" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="AT_03VerifyRegisteredSucessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Bank99" />
       <extension name="coverage">
@@ -126,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: AT_04VerifyLoginPage" />
         <item itemvalue="Cucumber Java.Feature: FF_03VerifyFRegistrationPage" />
         <item itemvalue="Cucumber Java.Feature: FF_02NewCustomer" />
         <item itemvalue="Cucumber Java.Feature: FF_Login" />
         <item itemvalue="JUnit.AT_03VerifyRegisteredSucessfully" />
-        <item itemvalue="JUnit.AT_01Login" />
       </list>
     </recent_temporary>
   </component>
@@ -144,5 +160,16 @@
       <updated>1701130600938</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
