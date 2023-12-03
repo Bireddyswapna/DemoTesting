@@ -1,6 +1,9 @@
 StepDefinitions\SD_02NewCutomer.class
-Runner\TestRunner.class
-DemoWebsite\AT_01Login.class
+StepDefinitions\SD_04VerifyLoginPageUsingExcel.class
 DemoWebsite\AT_02NewCustomer.class
 DemoWebsite\AT_03VerifyRegisteredSucessfully.class
+Runner\TestRunner.class
+StepDefinitions\SD_03VerifyRegistrationPage.class
+DemoWebsite\AT_01Login.class
 StepDefinitions\SD_01Login.class
+DemoWebsite\AT_04VerifyLoginPageUsingExcel.class
