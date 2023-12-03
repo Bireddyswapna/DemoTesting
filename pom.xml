@@ -34,13 +34,13 @@
       <artifactId>selenium-java</artifactId>
       <version>4.15.0</version>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/org.testng/testng -->
-<!--    <dependency>-->
-<!--      <groupId>org.testng</groupId>-->
-<!--      <artifactId>testng</artifactId>-->
-<!--      <version>7.6.1</version>-->
-<!--      <scope>test</scope>-->
-<!--    </dependency>-->
+<!--     https://mvnrepository.com/artifact/org.testng/testng-->
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>7.6.1</version>
+      <scope>test</scope>
+    </dependency>
     <dependency>
       <groupId>org.apache.poi</groupId>
       <artifactId>poi-ooxml</artifactId>
@@ -101,7 +101,7 @@
               <goal>generate</goal>
             </goals>
             <configuration>
-              <projectName>webAutomationProject-STL</projectName>
+              <projectName>Bank99-STL</projectName>
               <!-- output directory for the generated report -->
               <outputDirectory>${project.build.directory}/cucumber-JVM-reports</outputDirectory>
               <!-- optional, defaults to outputDirectory if not specified -->

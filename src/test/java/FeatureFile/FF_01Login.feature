@@ -4,3 +4,4 @@ Feature: GuruBank Login Page
   Given : navigate to GuruBank website
   Then :  enter username and Password
   Then : click on Login Button
+  Then : Capture Screenshot of the Output

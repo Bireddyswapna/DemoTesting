@@ -26,4 +26,8 @@ public class SD_01Login {
         AT_01Login.LoginButton();
 
     }
+    @Then(": Capture Screenshot of the Output")
+    public void capture_screenshot_of_the_output() throws IOException {
+        AT_01Login.Screenshot();
+    }
 }
