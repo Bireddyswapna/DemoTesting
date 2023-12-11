@@ -28,7 +28,7 @@ public class AT_02NewCustomer {
         OpenBrowser.driver.findElement(By.cssSelector("[name='state']")).sendKeys("Victoria");
         OpenBrowser.driver.findElement(By.cssSelector("[name='pinno']")).sendKeys("123029");
         OpenBrowser.driver.findElement(By.cssSelector("[name='telephoneno']")).sendKeys("123456789");
-        OpenBrowser.driver.findElement(By.cssSelector("[name='emailid']")).sendKeys("sam@gmail.com");
+        OpenBrowser.driver.findElement(By.cssSelector("[name='emailid']")).sendKeys("sami1912@gmail.com");
         OpenBrowser.driver.findElement(By.cssSelector("[name='password']")).sendKeys("testing");
     }
 
